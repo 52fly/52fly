@@ -1,0 +1,52 @@
+body {
+    margin:0; padding:0;
+}
+.loginbar_wrap{
+    width: 100%;
+    height: 40px;
+    background-image:url("../images/login_bg.jpg");
+}
+.loginbar{
+    width: 1000px;
+    height: 100%;
+    margin: 0 auto;
+    line-height: 40px;
+}
+.loginbar_text{
+    text-indent: 30px;
+    font-size: 15px;
+    float: left;
+}
+.loginbar_span1{
+    font-style: italic;
+    color: #083487;
+    font-weight: bolder;
+    font-size: 18px;
+    font-family: 微软雅黑;
+}
+.loginbar_span2{
+    color: red;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.loginbar_inp{
+    background-color: #083487;
+    color: white;
+    border-radius: 5px;
+}
+.searchbar{
+    float: right;
+    margin-right: 30px;
+}
+.search_inp{
+   width: 110px;
+}
+.head_bg{
+    background: url("../images/head_bg.jpg");
+    width: 100%;
+    height: 306px;
+}
+.head_bg1{
+    margin-left: 150px;
+    margin-top: -10px;
+}
